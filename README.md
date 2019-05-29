@@ -1,5 +1,5 @@
-## [BulmaPlay](https://bulma-css-bulmalanding.appseed.us) - Made with [Bulma Css](https://bulma.io)
-**Open Source** [JAMstack App](https://appseed.us/apps/static/panini/bulmalanding) - Read More about **[BulmaPlay](https://blog.appseed.us/bulmalanding-jamstack-app-built-with-bulma-css/)** 
+## [BulmaLanding](https://bulma-css-bulmalanding.appseed.us) - Made with [Bulma Css](https://bulma.io)
+**Open Source** [JAMstack App](https://appseed.us/apps/static/panini/bulmalanding) 
 
 ![BulmaLanding App - Made with Bulma](https://appseed.us/static/thumbnails/product-bulmalanding/bulma-css-bulmalanding-top-image.png)
 
