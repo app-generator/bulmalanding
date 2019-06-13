@@ -29,7 +29,7 @@
                     <div class="navbar-brand">
                         <a class="navbar-item" href="/">
                             <img src="assets/images/logo.png" 
-                                 alt="Logo for BulmaLanding - App Built with Bulma CSS.">
+                                 alt="Logo for BulmaLanding - App made with Bulma CSS.">
                         </a>
                         <span class="navbar-burger burger" data-target="navbarMenu">
                             <span></span>
@@ -41,7 +41,7 @@
                         <div class="navbar-end">
 
                             <span class="navbar-item">
-                                <a target="_blank" href="{{ data.links.product }}">
+                                <a href="{{ data.links.product }}">
                                    Read More
                                 </a>
                             </span>
@@ -63,12 +63,13 @@
                 <div class="container has-text-centered">
                     <div class="column is-10 is-offset-1">
                         <h1 class="title">
-                            LANDING. <span class="is-orange-font">Built with Bulma CSS</span>
+                            Made with <span class="is-orange-font"><a href="https://bulma.io">Bulma CSS</a></span>
                         </h1>
                         <p class="subtitle">
-                           Free JAMStack Web App generated with Panini Static Generator
+                           Learn <a class="is-uppercase" href="{{data.links.docs}}">how to use</a> 
+                           this <a class="is-uppercase" href="{{data.links.github}}">open-source</a> web app 
                         </p>
-                        <a class="button is-primary" target="_blank" href="{{data.links.github}}">Get Code</a>
+                        <a class="button is-primary" target="_blank" href="{{data.links.product}}">App Info</a>
                     </div>
                 </div>
             </div>
