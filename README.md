@@ -4,7 +4,7 @@ Open-Source app styled with **Bulma CSS** coded in **JAMstack** pattern
 
 <br />
 
-![BulmaLanding App - Made with Bulma](https://appseed.us/static/thumbnails/product-bulmalanding/bulma-css-bulmalanding-top-image.png)
+![Bulma CSS Landing - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/bulma-css-bulmalanding-intro.gif?raw=true)
 
 <br />
 
