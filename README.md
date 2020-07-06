@@ -1,4 +1,4 @@
-# [JAMstack Bulma CSS Landing](https://appseed.us/apps/bulma-css/bulmalanding)
+# [JAMstack Bulma Landing](https://appseed.us/apps/bulma-css/bulmalanding)
 
 Open-Source app styled with **Bulma CSS** coded in **JAMstack** pattern
 
@@ -35,4 +35,4 @@ For issues and features request, use **Github** or access the [support page](htt
 <br />
 
 ---
-[Bulma CSS - Landing](https://appseed.us/apps/bulma-css/bulmalanding) provided by **AppSeed**
+[JAMstack Bulma Landing](https://appseed.us/apps/bulma-css/bulmalanding) - provided by **AppSeed**
